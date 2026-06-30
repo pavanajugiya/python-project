@@ -8,10 +8,10 @@ print("Hello world!")
 
 print("Hello",end=" ")
 
-print("Harpal","Patel",sep="-")
+print("pavan","ajugiya",sep="-")
 
 print("My","Name","is",end="*")
-print("Harpal","Patel",sep="-",end="*\n")
+print("pavan","ajugiya",sep="-",end="*\n")
 
 # check Number is Even or Odd 
 n=int(input("Enter the value : "))
